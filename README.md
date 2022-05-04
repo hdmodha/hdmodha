@@ -62,6 +62,9 @@ me.say_hi()
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hdmodha&theme=vue)
 
 ![](https://github-readme-stats.vercel.app/api?username=hdmodha)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hdmodha)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 ![](	https://github-profile-trophy.vercel.app/?username=hdmodha&theme=nord&column=8)
