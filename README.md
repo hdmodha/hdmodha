@@ -29,7 +29,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website: https://hdmodha.github.io/cv/
+- Personal website: https://www.hetmodha.com/
 
 <br>
 </br>
